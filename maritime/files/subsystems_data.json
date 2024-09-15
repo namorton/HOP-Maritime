@@ -1,0 +1,414 @@
+{
+    "subsystems": [
+        {
+            "shipId": "Daring",
+            "subsystemId": "Daring-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "A"
+        },
+        {
+            "shipId": "Daring",
+            "subsystemId": "Daring-MPU-B",
+            "subsystemType": "MPU",
+            "instance": "B"
+        },
+        {
+            "shipId": "Dauntless",
+            "subsystemId": "Dauntless-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "A"
+        },
+        {
+            "shipId": "Dauntless",
+            "subsystemId": "Dauntless-MPU-B",
+            "subsystemType": "MPU",
+            "instance": "B"
+        },
+        {
+            "shipId": "Diamond",
+            "subsystemId": "Diamon-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "A"
+        },
+        {
+            "shipId": "Diamond",
+            "subsystemId": "Diamond-MPU-B",
+            "subsystemType": "MPU",
+            "instance": "B"
+        },
+        {
+            "shipId": "Dragon",
+            "subsystemId": "Dragon-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "A"
+        },
+        {
+            "shipId": "Dragon",
+            "subsystemId": "Dragon-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "B"
+        },
+        {
+            "shipId": "Defender",
+            "subsystemId": "Defender-MPU-A",
+            "subsystemType": "MPU",
+            "instance": "A"
+        },
+        {
+            "shipId": "Defender",
+            "subsystemId": "Defender-MPU-B",
+            "subsystemType": "MPU",
+            "instance": "B"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-LMS-3",
+            "subsystemType": "LMS",
+            "instance": "3"
+        },
+        {
+            "shipId": "Argyll",
+            "subsystemId": "Argyll-LMS-4",
+            "subsystemType": "LMS",
+            "instance": "4"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-3",
+            "subsystemType": "LMS",
+            "instance": "3"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-4",
+            "subsystemType": "LMS",
+            "instance": "4"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-3",
+            "subsystemType": "LMS",
+            "instance": "3"
+        },
+        {
+            "shipId": "Lancaster",
+            "subsystemId": "Lancaster-LMS-4",
+            "subsystemType": "LMS",
+            "instance": "4"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-LMS-3",
+            "subsystemType": "LMS",
+            "instance": "3"
+        },
+        {
+            "shipId": "Iron Duke",
+            "subsystemId": "Iron Duke-LMS-4",
+            "subsystemType": "LMS",
+            "instance": "4"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-LMS-3",
+            "subsystemType": "LMS",
+            "instance": "3"
+        },
+        {
+            "shipId": "Northumberland",
+            "subsystemId": "Northumberland-LMS-4",
+            "subsystemType": "LMS",
+            "instance": "4"
+        },
+        {
+            "shipId": "Almirante Cochrane",
+            "subsystemId": "Almirante Cochrane-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Almirante Cochrane",
+            "subsystemId": "Almirante Cochrane-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Cochrane",
+            "subsystemId": "Almirante Cochrane-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Almirante Cochrane",
+            "subsystemId": "Almirante Cochrane-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Cochrane",
+            "subsystemId": "Almirante Cochrane-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Almirante Condell",
+            "subsystemId": "Almirante Condell-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Almirante Condell",
+            "subsystemId": "Almirante Condell-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Condell",
+            "subsystemId": "Almirante Condell-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Almirante Condell",
+            "subsystemId": "Almirante Condell-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Condell",
+            "subsystemId": "Almirante Condell-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Almirante Lynch",
+            "subsystemId": "Almirante Lynch-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Almirante Lynch",
+            "subsystemId": "Almirante Lynch-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Lynch",
+            "subsystemId": "Almirante Lynch-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Almirante Lynch",
+            "subsystemId": "Almirante Lynch-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Almirante Lynch",
+            "subsystemId": "Almirante Lynch-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Te Kaha",
+            "subsystemId": "Te Kaha-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Te Kaha",
+            "subsystemId": "Te Kaha-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Te Kaha",
+            "subsystemId": "Te Kaha-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Te Kaha",
+            "subsystemId": "Te Kaha-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Te Kaha",
+            "subsystemId": "Te Kaha-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        },
+        {
+            "shipId": "Te Mana",
+            "subsystemId": "Te Mana-MPU",
+            "subsystemType": "MPU"
+        },
+        {
+            "shipId": "Te Mana",
+            "subsystemId": "Te Mana-PDLT-1",
+            "subsystemType": "PDLT",
+            "instance": "1"
+        },
+        {
+            "shipId": "Te Mana",
+            "subsystemId": "Te Mana-PDLT-2",
+            "subsystemType": "PDLT",
+            "instance": "2"
+        },
+        {
+            "shipId": "Te Mana",
+            "subsystemId": "Te Mana-LMS-1",
+            "subsystemType": "LMS",
+            "instance": "1"
+        },
+        {
+            "shipId": "Te Mana",
+            "subsystemId": "Te Mana-LMS-2",
+            "subsystemType": "LMS",
+            "instance": "2"
+        }
+    ]
+}

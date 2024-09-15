@@ -1,0 +1,13 @@
+artefactId,description,version,buildId
+System Management Service,TBD,1.0,MPU-APP-SW-FOC
+System Management Service,TBD,2.0,MPU-APP-SW-EXP-Mk4
+System Management Service,TBD,2.0,MPU-APP-SW-Mk2
+System Configuration Service,TBD,1.0,MPU-APP-SW-Mk2
+System Configuration Service,TBD,2.0,MPU-APP-SW-EXP-Mk4
+System Configuration Service,TBD,2.0,MPU-APP-SW-Mk5
+Picture Maintenance Service,TBD,1.0,MPU-APP-SW-Mk2
+Picture Maintenance Service,TBD,2.0,MPU-APP-SW-EXP-Mk4
+Picture Maintenance Service,TBD,3.0,MPU-APP-SW-Mk5
+Threat Selector Service,TBD,1.0,MPU-APP-SW-Mk2
+Threat Selector Service,TBD,2.0,MPU-APP-SW-EXP-Mk4
+Threat Selector Service,TBD,2.0,MPU-APP-SW-Mk5

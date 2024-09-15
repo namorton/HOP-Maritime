@@ -1,0 +1,21 @@
+{
+  "description" : "Maritime Command and Control Systems",
+  "company" : "MBDA",
+  "department" : "SPLC",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default",
+  "config" : {
+    "variables" : [ {
+      "name" : "IMPORT_FOLDER",
+      "value" : "${PROJECT_HOME}/files",
+      "description" : "The folder used to import data from."
+    }, {
+      "name" : "JSON_FILES",
+      "value" : "*.json",
+      "description" : "Wildcard specifier for JSON files."
+    } ]
+  }
+}

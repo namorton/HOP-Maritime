@@ -1,0 +1,144 @@
+{
+    "platformArtefacts": [
+        {
+            "artefactId": "Encryption Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "LMS-PLT-SW-FOC"},
+                {"buildId": "MPU-PLT-SW-FOC"},
+                {"buildId": "PDLT-PLT-SW-FOC"}
+            ]
+        },
+
+        {
+            "artefactId": "Encryption Service",
+            "description": "TBD",
+            "version": "2.0",
+            "builds": [
+                {"buildId": "MPU-PLT-SW-EXP-Mk4"},
+                {"buildId": "LMS-PLT-SW-EXP-Mk4"},
+                {"buildId": "PDLT-PLT-SW-EXP-Mk4"},
+                {"buildId": "LMS-PLT-SW-Mk2"},
+                {"buildId": "MPU-PLT-SW-Mk2"},
+                {"buildId": "PDLT-PLT-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "Data Distibution Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "LMS-PLT-SW-FOC"},
+                {"buildId": "LMS-PLT-SW-Mk2"},
+                {"buildId": "MPU-PLT-SW-FOC"},
+                {"buildId": "MPU-PLT-SW-Mk2"},
+                {"buildId": "PDLT-PLT-SW-FOC"},
+                {"buildId": "PDLT-PLT-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "Loader Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "LMS-PLT-SW-FOC"},
+                {"buildId": "LMS-PLT-SW-Mk2"},
+                {"buildId": "MPU-PLT-SW-FOC"},
+                {"buildId": "MPU-PLT-SW-Mk2"},
+                {"buildId": "PDLT-PLT-SW-FOC"},
+                {"buildId": "PDLT-PLT-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "Fault Logging Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "LMS-PLT-SW-FOC"},
+                {"buildId": "LMS-PLT-SW-Mk2"},
+                {"buildId": "MPU-PLT-SW-FOC"},
+                {"buildId": "MPU-PLT-SW-Mk2"},
+                {"buildId": "PDLT-PLT-SW-FOC"},
+                {"buildId": "PDLT-PLT-SW-Mk2"}
+            ]
+        }
+    ],
+    "applicationArtefacts": [
+        {
+            "artefactId": "System Management Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-FOC"}
+            ]
+        },
+        {
+            "artefactId": "System Management Service",
+            "description": "TBD",
+            "version": "2.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-EXP-Mk4"},
+                {"buildId": "MPU-APP-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "System Configuration Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "System Configuration Service",
+            "description": "TBD",
+            "version": "2.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-EXP-Mk4"},
+                {"buildId": "MPU-APP-SW-Mk5"}
+            ]
+        },
+        {
+            "artefactId": "Picture Maintenance Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-Mk2"}
+            ]
+        },
+        {
+            "artefactId": "Picture Maintenance Service",
+            "description": "TBD",
+            "version": "2.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-EXP-Mk4"}
+            ]
+        },
+        {
+            "artefactId": "Picture Maintenance Service",
+            "description": "TBD",
+            "version": "3.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-Mk5"}
+            ]
+        },
+        {
+            "artefactId": "Threat Selector Service",
+            "description": "TBD",
+            "version": "1.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-Mk2"}
+            ]
+        },       
+        {
+            "artefactId": "Threat Selector Service",
+            "description": "TBD",
+            "version": "2.0",
+            "builds": [
+                {"buildId": "MPU-APP-SW-EXP-Mk4"},
+                {"buildId": "MPU-APP-SW-Mk5"}
+            ]
+        }
+    ]
+}

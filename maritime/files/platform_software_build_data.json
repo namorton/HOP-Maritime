@@ -1,0 +1,184 @@
+{
+    "softwareBuilds": [
+        {
+            "buildId": "MPU-PLT-SW-FOC",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Argyll"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-FOC",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Argyll"
+        },
+        {
+            "buildId": "LMS-PLT-SW-FOC",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Argyll"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Northumberland"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Northumberland"
+        },
+        {
+            "buildId": "LMS-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Northumberland"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Iron Duke"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Iron Duke"
+        },
+        {
+            "buildId": "LMS-PLT-SW-Mk2",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Iron Duke"
+        },
+        {
+            "buildId": "MPU-PLT-SW-FOC",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Daring"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk5",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Duncan"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk5",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Dauntless"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk5",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Dragon"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk5",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Defender"
+        },
+        {
+            "buildId": "MPU-PLT-SW-Mk5",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Diamond"
+        },
+        {
+            "buildId": "MPU-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Almirante Cochrane"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Almirante Cochrane"
+        },
+        {
+            "buildId": "LMS-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Almirante Cochrane"
+        },
+        {
+            "buildId": "MPU-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Almirante Condell"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Almirante Condell"
+        },
+        {
+            "buildId": "LMS-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Almirante Condell"
+        },
+        {
+            "buildId": "MPU-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Almirante Lynch"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Almirante Lynch"
+        },
+        {
+            "buildId": "LMS-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Almirante Lynch"
+        },
+        {
+            "buildId": "MPU-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Te Mana"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Te Mana"
+        },
+        {
+            "buildId": "LMS-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Te Mana"
+        },
+        {
+            "buildId": "MPU-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "MPU",
+            "shipId": "Te Kaha"
+        },
+        {
+            "buildId": "PDLT-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "PDLT",
+            "shipId": "Te Kaha"
+        },
+        {
+            "buildId": "LMS-PLT-SW-EXP-Mk4",
+            "buildType":"Platform",
+            "subsystemType": "LMS",
+            "shipId": "Te Kaha"
+        }
+    ]
+}
